@@ -63,7 +63,7 @@ render() {
       if (this.state.articleFeed) {
         feed = this.state.articleFeed.map((ele, idx) => {
           return (
-             <div   className="box"  key={idx}  >
+             <div className="box"  key={idx}  >
                 <div className="articleContent">
                 <img alt="article" src={ele.hero} width="420" height="270"/>
                   <p><strong>{ele.franchise}</strong></p>

@@ -18,3 +18,11 @@ Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Because of the permission allowed with the API you will need to clikc the next and prev button twice. 
+
+
+
+## Coming soon:
+
+* Implement a scroll view for saved searches.
+* Add a link to view individual articles or a Modal. 
+* More CSS
