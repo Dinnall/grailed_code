@@ -2,7 +2,7 @@
 
 
 
-For project to work property add the chrome extension 
+For project to work properly add the chrome extension :
 
 ## Allow-Control-Allow-Origin: *
 
